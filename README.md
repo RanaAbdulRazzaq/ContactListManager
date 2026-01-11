@@ -1,13 +1,13 @@
 # ContactListManager
 Contact List Manager
 
-# VPL Theory CCP 📘💻
+# VPL Theory CCP 
 
 **VPL Theory CCP** is an academic project focused on demonstrating **core concepts of Computer & Concurrent Programming (CCP)** through theory-based implementations and structured documentation. The project is designed to support learning, experimentation, and understanding of theoretical programming constructs commonly taught in university-level courses.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This repository contains structured material and practical examples related to **VPL (Virtual Programming Lab) Theory for CCP**. It serves as a reference project for students to understand theoretical concepts, experiment with sample code, and prepare for lab assessments or coursework submissions.
 
@@ -19,7 +19,7 @@ The project is suitable for:
 
 ---
 
-## 🛠️ Tech Stack / Tools
+##  Tech Stack / Tools
 
 * **Language:** C / C++ (theory-oriented examples)
 * **Platform:** Virtual Programming Lab (VPL)
@@ -28,7 +28,7 @@ The project is suitable for:
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 VPL Theory CCP - Razzaq/
@@ -43,7 +43,7 @@ VPL Theory CCP - Razzaq/
 
 ---
 
-## 📚 Covered Concepts
+##  Covered Concepts
 
 * Process vs Thread fundamentals
 * Sequential vs Concurrent execution
@@ -54,16 +54,16 @@ VPL Theory CCP - Razzaq/
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-* 📖 Clear theory-oriented implementations
-* 🧪 Simple and testable sample programs
-* 🖥️ Compatible with VPL execution environment
-* 🎓 Ideal for academic submissions and demos
+*  Clear theory-oriented implementations
+*  Simple and testable sample programs
+*  Compatible with VPL execution environment
+*  Ideal for academic submissions and demos
 
 ---
 
-## 🚀 How to Use / Run
+##  How to Use / Run
 
 1. **Extract the project**
 
@@ -89,7 +89,7 @@ VPL Theory CCP - Razzaq/
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 * Strong understanding of CCP theoretical foundations
 * Hands-on practice with concurrency-related concepts
@@ -97,7 +97,7 @@ VPL Theory CCP - Razzaq/
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Add multithreading examples (POSIX threads)
 * Include synchronization primitives demos
@@ -107,17 +107,16 @@ VPL Theory CCP - Razzaq/
 
 ---
 
-## 🤝 Contribution
+## Contribution
 
 This repository is primarily for **educational use**.
 You are welcome to fork it and enhance explanations or examples.
 
 ---
 
-## 📄 License
+##  License
 
 This project is intended for **academic and educational purposes only**.
 
 ---
 
-Just tell me what you need next 🚀
