@@ -39,7 +39,7 @@ VPL Theory CCP - Razzaq/
 └── README / Instructions        # Usage or submission guidelines
 ```
 
-*(Structure may vary slightly depending on VPL requirements)*
+
 
 ---
 
@@ -60,32 +60,6 @@ VPL Theory CCP - Razzaq/
 *  Simple and testable sample programs
 *  Compatible with VPL execution environment
 *  Ideal for academic submissions and demos
-
----
-
-##  How to Use / Run
-
-1. **Extract the project**
-
-   ```bash
-   unzip "VPL Theory CCP - Razzaq.zip"
-   ```
-
-2. **Open in VPL or local Linux environment**
-
-3. **Compile (example)**
-
-   ```bash
-   gcc program.c -o program
-   ```
-
-4. **Run**
-
-   ```bash
-   ./program
-   ```
-
-*(Adjust file names as required)*
 
 ---
 
